@@ -1,0 +1,8 @@
+This is a placeholder for the calculator screenshot.
+
+To add a real screenshot:
+1. Take a screenshot of your calculator application
+2. Save it as "screenshot.png" in the root directory
+3. Delete this text file
+
+The screenshot should show the calculator UI with the number pad and operation buttons.
